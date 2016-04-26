@@ -3,9 +3,9 @@ This is a basic led blink example using android and esp8266 nodemcu. The main pu
 
 #Requirements
 
-  >Breadboard
-  >LED
-  >Jumper Cable
-  >Android Studio
-  >Arduino IDE
-  >A Wifi Network 
+  * Breadboard
+  * LED
+  * Jumper Cable
+  * Android Studio
+  * Arduino IDE
+  * A Wifi Network 
