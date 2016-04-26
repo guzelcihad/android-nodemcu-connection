@@ -24,5 +24,5 @@ This is a basic led blink example using android and esp8266 nodemcu. The main pu
  * ```activity.main```
  * ```nodemcu.ino```
  
-#Fritzing Image
-  ![alt tag](https://github.com/cihadguzel/android-nodemcu-connection/arduino/Nodemcu.png)
+#Nodemcu Circuit Image
+  ![alt tag](https://github.com/cihadguzel/android-nodemcu-connection/blob/master/arduino/NodemcuLed.png)
