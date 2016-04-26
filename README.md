@@ -20,7 +20,7 @@ This is a basic led blink example using android and esp8266 nodemcu. The main pu
 
 #Important Files
 
- * MainActivity.java
- * activity_main.xml
- * nodemcu.ino
+ * ```MainActivity.java```
+ * ```activity.main```
+ * ```nodemcu.ino```
  
