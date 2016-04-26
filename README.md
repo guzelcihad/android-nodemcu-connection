@@ -14,4 +14,13 @@ This is a basic led blink example using android and esp8266 nodemcu. The main pu
 
   * You must use D7 pin(in Arduino IDE Digital 13 pin)
   * Connect LED to this pin
-  * Open Arduino IDE and change ```ssid``` and ```password``` for your network 
+  * Open ```nodemcu.ino```using  Arduino IDE,change ```ssid``` and ```password``` for your network 
+  * Then install this file to nodemcu module using usb cable
+  * Open Android Studio and run the app
+
+#Important Files
+
+ * MainActivity.java
+ * activity_main.xml
+ * nodemcu.ino
+ 
