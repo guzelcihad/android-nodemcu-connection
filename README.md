@@ -18,11 +18,18 @@ This is a basic led blink example using android and esp8266 nodemcu. The main pu
   * Then install this file to nodemcu module using usb cable
   * Open Android Studio and run the app
 
-#Important Files
+#Important Files 
 
  * ```MainActivity.java```
  * ```activity.main```
  * ```nodemcu.ino```
+ 
+ #Permissions in Android App 
+ 
+ * ```android.permission.ACCESS_NETWORK_STATE```
+ * ```android.permission.INTERNET```
+ * ```android.permission.ACCESS_WIFI_STATE```
+ * ```android.permission.CHANGE_WIFI_STATE```
  
 #Nodemcu Circuit Image
   ![alt tag](https://github.com/cihadguzel/android-nodemcu-connection/blob/master/arduino/NodemcuLed.png)
