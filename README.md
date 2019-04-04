@@ -1,7 +1,7 @@
 # android-nodemcu-connection
 This is a basic led blink example using android and esp8266 nodemcu. The main purpose of this application is how to connect android device to esp8266 nodemcu lolin. I wanted to show send and get data from android to esp8266 nodemcu.I hope it will be useful for you.
 
-#Requirements
+### Requirements
 
   * Breadboard
   * LED
@@ -10,7 +10,7 @@ This is a basic led blink example using android and esp8266 nodemcu. The main pu
   * Arduino IDE
   * A Wifi Network 
  
-#Usage
+### Usage
 
   * You must use D7 pin(in Arduino IDE Digital 13 pin)
   * Connect LED to this pin
@@ -18,11 +18,11 @@ This is a basic led blink example using android and esp8266 nodemcu. The main pu
   * Then install this file to nodemcu module using usb cable
   * Open Android Studio and run the app
 
-#Important Files
+### Important Files
 
  * ```MainActivity.java```
  * ```activity.main```
  * ```nodemcu.ino```
  
-#Nodemcu Circuit Image
+### Nodemcu Circuit Image
   ![alt tag](https://github.com/cihadguzel/android-nodemcu-connection/blob/master/arduino/NodemcuLed.png)
